@@ -1,0 +1,36 @@
+---
+layout: post
+title: Changelog
+---
+
+* 3proxy 0.7.1.2-1,
+* asterisk18-chan-dongle 1.1-20150411-1,
+* bfgminer 5.1.0-1,
+* bochs 2.6.8-1,
+* busybox 1.23.2-1a,
+* daemonize 1.7.6-1,
+* duktape 1.2.1-1,
+* fontconfig 2.11.93-1,
+* [haproxy 1.5.11-09](http://www.haproxy.org/),
+* hubicfuse 1.0.1-20150503-1,
+* i2pd 0.9.19-20150518-1,
+* inadyn 1.99.14-20150428-1,
+* inetutils 1.9.3-1,
+* [mediafire-fuse 0.6-20150520-1](https://github.com/MediaFire/mediafire-fuse),
+* [mercurial 3.3.3-1](https://mercurial.selenic.com/),
+* [mkvtoolnix 4.2.0-1](https://www.bunkus.org/videotools/mkvtoolnix/),
+* mpg123 1.22.1-1,
+* netatalk 2.2.4-1a,
+* oscam 1.20-r10663-1,
+* p7zip 9.38.1-1,
+* pbzip2 1.1.12-1 was deleted,
+* ptokax 0.5.0.3-1,
+* python-onedrive 15.5.4-1,
+* rutorrent 3.7-1,
+* shadowsocks-libev 2.2.1-1,
+* [shairport-sync 2.2.2-3](https://github.com/mikebrady/shairport-sync),
+* tty-solitaire 0.2.0-1,
+* [weechat 1.1.1-1](https://weechat.org/),
+* whois 5.2.8-1,
+* xupnpd 404-1a,
+* [zerotier 1.0.2-1](https://www.zerotier.com/).
