@@ -1,4 +1,5 @@
 title: Ultimate repo for embedded devices
+author: Entware team
 email: mail@entware.net
 description: >- # this means to ignore newlines until "baseurl:"
   A software repository for network attached storages, routers and other embedded devices
