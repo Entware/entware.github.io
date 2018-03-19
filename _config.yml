@@ -9,6 +9,7 @@ rss: RSS
 
 header_pages:
  - about.md
+ - archive.md
 
 markdown: kramdown
 remote_theme: jekyll/minima
