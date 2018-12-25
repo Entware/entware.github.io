@@ -90,7 +90,6 @@ title: Changelog
 * iperf 2.0.12-3,
 * ipset 6.38-1,
 * ipv6calc 1.1.0-1,
-* ipv6log 1.1.0-1,
 * isc-dhcp 4.4.1-3,
 * jdcal 1.4-1,
 * jhead 3.02-1,
