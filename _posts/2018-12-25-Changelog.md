@@ -3,7 +3,6 @@ layout: post
 title: Changelog
 ---
 
-
 * accel-ppp 1.11.2-20181026-1,
 * aircrack-ng 1.4-1,
 * alsa 1.1.7-1,
