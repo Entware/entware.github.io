@@ -4,8 +4,11 @@ email: mail@entware.net
 description: >- # this means to ignore newlines until "baseurl:"
   A software repository for network attached storages, routers and other embedded devices
 
-github_username: Entware
-rss: RSS
+minima:
+  social_links:
+    github: Entware
+    rss: RSS
+    telegram: entware_net
 
 header_pages:
  - about.md
