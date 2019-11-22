@@ -8,7 +8,7 @@ minima:
   social_links:
     github: Entware
     rss: RSS
-    telegram: entware_net
+    telegram: entware
 
 header_pages:
  - about.md
