@@ -22,7 +22,7 @@ title: Changelog
 * cups-filters 1.28.10-1,
 * curl 7.78.0-1,
 * dnscrypt-proxy2 2.1.0-1,
-* dovecot 2.3.13-1, dovecot-mysql deleted, ovecot-utils added,
+* dovecot 2.3.13-1, dovecot-mysql deleted, dovecot-utils added,
 * [espeak-ng 1.50-2](https://github.com/espeak-ng/espeak-ng),
 * ethtool 5.13-1,
 * [exiv2 0.27.4-1](https://github.com/Exiv2/exiv2),
