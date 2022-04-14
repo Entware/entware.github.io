@@ -87,7 +87,7 @@ title: Changelog
 * libxml2 2.9.13-1,
 * lighttpd 1.4.64-1,
 * live555mediaserver 2022.02.07-1,
-* [lslocks 2.37.3-3https://manpages.ubuntu.com/manpages/bionic/man8/lslocks.8.html
+* [lslocks 2.37.3-3](https://manpages.ubuntu.com/manpages/bionic/man8/lslocks.8.html)
 * [lsns 2.37.3-3](https://man7.org/linux/man-pages/man8/lsns.8.html),
 * [lux 0.14.0-1](https://github.com/iawia002/lux),
 * lvm2 2.03.15-1,
