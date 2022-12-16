@@ -6,8 +6,8 @@ description: >- # this means to ignore newlines until "minima:"
 
 minima:
   social_links:
-    github: Entware
-    telegram: entware
+    - { platform: github,         user_url: "https://github.com/Entware/Entware" }
+    - { platform: telegram,       user_url: "https://t.me/entware" }
 
 header_pages:
  - about.md
