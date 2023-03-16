@@ -4,7 +4,6 @@ title: Changelog
 ---
 
 
-
 * [adguardhome-go v0.107.25-1](https://github.com/AdguardTeam/AdGuardHome),
 * apache-mod-php8 8.2.2-1,
 * asterisk 20.0.1-1,
@@ -56,7 +55,7 @@ title: Changelog
 * ipv6calc 4.0.2-1,
 * ipv6log 4.0.2-1,
 * jdupes 1.21.3-1,
-* [jsoncpp 1.9.5-2](),
+* [jsoncpp 1.9.5-2](https://github.com/open-source-parsers/jsoncpp),
 * knot 3.2.5-1,
 * libcap 2.67-1,
 * libfaad2 2.10.1-1,
@@ -122,7 +121,7 @@ title: Changelog
 * rar2fs 1.29.6-1,
 * rclone 1.61.1-1,
 * remind 04.02.03-1,
-* [rev 2.38.1-1](),
+* [rev 2.38.1-1](https://linux.die.net/man/1/rev),
 * rpcapd 1.10.3-1,
 * rsnapshot 1.4.5-1,
 * ruby 3.1.3-1,
