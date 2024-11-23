@@ -11,6 +11,7 @@ minima:
 
 header_pages:
  - about.md
+ - mirrors.md
  - archive.md
 
 markdown: kramdown
