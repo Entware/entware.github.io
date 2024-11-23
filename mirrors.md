@@ -8,7 +8,7 @@ title: Mirrors
 You may use one of the community-supported mirrors:
 
 * [https://mirrors.bfsu.edu.cn/entware/](https://mirrors.bfsu.edu.cn/entware/)
-* [https://mirrors.cqupt.edu.cn/entware/]([https://mirrors.cqupt.edu.cn/entware/)
+* [https://mirrors.cqupt.edu.cn/entware/](https://mirrors.cqupt.edu.cn/entware/)
 * [https://mirrors.nju.edu.cn/entware/](https://mirrors.nju.edu.cn/entware/)
 * [https://entware.diversion.ch/](https://entware.diversion.ch/)
 
