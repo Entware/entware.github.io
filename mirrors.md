@@ -3,7 +3,7 @@ layout: page
 title: Mirrors
 ---
 
-## Mirrors
+## Alternative package sources
 
 You may use one of community supported mirror:
 
